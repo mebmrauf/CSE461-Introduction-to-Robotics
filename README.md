@@ -22,7 +22,7 @@ The main objectives of this course are:
 ## Playlist
 
 ### RAD
-    https://youtube.com/playlist?list=PLkE3k0P4Vrn1iw1BCGbvFxABPjSO3ktJB&si=OKMYYOXZfQI5RoTX
+    https://youtube.com/playlist?list=PLkE3k0P4Vrn1iw1BCGbvFxABPjSO3ktJB
 
 ### KHR
     https://www.youtube.com/@drmdkhalilurrhaman4551/videos
