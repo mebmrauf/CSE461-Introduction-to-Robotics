@@ -21,6 +21,9 @@ The main objectives of this course are:
 
 ## Playlist
 
+### RBR
+    https://youtube.com/playlist?list=PLWCaK_oHHOY6sCTaTOe_fGmdALn-vh9lT
+    
 ### RAD
     https://youtube.com/playlist?list=PLkE3k0P4Vrn1iw1BCGbvFxABPjSO3ktJB
 
