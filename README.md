@@ -19,7 +19,24 @@ The main objectives of this course are:
 
 6. Teach how to design, develop, experiment, and document a robotics project.
 
+## Playlist
+
+### RAD
+    https://youtube.com/playlist?list=PLkE3k0P4Vrn1iw1BCGbvFxABPjSO3ktJB&si=OKMYYOXZfQI5RoTX
+
+### KHR
+    https://www.youtube.com/@drmdkhalilurrhaman4551/videos
+
 ## Lecture Videos
 
+### Forward Kinematics [RDW]
+    https://youtu.be/yHsHxa96IJo
+    
 ### Inverse Kinematics
     https://youtu.be/HAQRj3UHE7g
+
+### Robot Navigation [NLY]
+    https://youtu.be/rfRXo1h4Mys
+
+### Control System Theory [NLY]
+    https://youtu.be/npGEGrW7Xk8
