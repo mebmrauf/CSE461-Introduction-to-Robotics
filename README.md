@@ -31,9 +31,6 @@ The main objectives of this course are:
 
 ### Forward Kinematics [RDW]
     https://youtu.be/yHsHxa96IJo
-    
-### Inverse Kinematics
-    https://youtu.be/HAQRj3UHE7g
 
 ### Robot Navigation [NLY]
     https://youtu.be/rfRXo1h4Mys
