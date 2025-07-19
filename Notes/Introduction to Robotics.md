@@ -74,7 +74,7 @@ They can do work that is **boring, dirty, hard, or risky for humans**.
 
 **A vehicle that works without a human inside it.** It can be controlled from far away or work by itself.
 
-### **Types of Uncrewed vehicle (UGV)**
+### **Types of Uncrewed vehicle**
 
 - Underwater vehicle
 - Surface water vehicle
